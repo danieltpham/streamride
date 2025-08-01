@@ -1,0 +1,21 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+
+# Online learning
+river>=0.14.0
+
+# Web app & visualisation
+streamlit>=1.35.0
+plotly>=5.21.0
+
+# Drift detection / statistics
+scipy>=1.10.0
+
+# Typing and dev utilities
+mypy>=1.8
+types-requests>=2.31.0.10
+
+# Testing
+pytest>=8.0
+pytest-mock>=3.12.0
